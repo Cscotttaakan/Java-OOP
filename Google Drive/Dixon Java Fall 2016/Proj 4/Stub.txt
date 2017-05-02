@@ -1,0 +1,11 @@
+     Sorted Integer Collection
+    -30     13     45     70    100
+
+     Sorted string Collection
+
+  Baker  Camille  Lee  adams  dixon  johnson
+
+The position of dixon in the array is: 4
+The position of 13 in the array is: 1
+The position of 70 in the array is: 3
+The position of Baker in the array is: 0
