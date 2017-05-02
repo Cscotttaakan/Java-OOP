@@ -1,4 +1,4 @@
 # Data-Structures
-Source Files for CISP 440 w/ Michael Dixon
+Source Files for CISP 401 w/ Michael Dixon
 
-This course is an introduction to the design and implementation of complex data structures used in large computer applications. List, stack, queue, and tree data structures are implemented using pointers and recursion. Topics include software requirements specification, algorithm analysis, debugging and testing, searching and sorting techniques, and object oriented programming methodology. (C-ID COMP 132) 
+Description: This course is an introduction to Object Oriented Programming using the Java language. The student will learn how to design and implement object oriented applications. Topics will include: objects, classes, UML, function overloading, inheritance, static and dynamic class relationships, polymorphism, components, event driven programming, class associations, testing and debugging.  
